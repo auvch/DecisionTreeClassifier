@@ -1,7 +1,7 @@
 # DecisionTreeClassifier
 简单的决策树分类器，支持C4.5、CART算法和相应的剪枝算法
 
-Directory structure:  
+File structure:  
   - utils.py  
       实现熵、信息增益、信息增益率、基尼系数的的计算  
   - tree.py:  
